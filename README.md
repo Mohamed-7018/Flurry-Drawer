@@ -1,6 +1,6 @@
 # flurry_drawer
 
-The repo is solving a problem with package flurry_navigation as it's old any the owner didn't update it. The drawer is very beautiful and many people likes it so much. For these reasons I push this repo for public to help them to add this beautful drawer to their projets. I wih this will help you.
+The repo is solving a problem with package flurry_navigation as it's old and the owner didn't update it. The drawer is very beautiful and many people likes it so much. For these reasons I push this repo for public to help them to add this beautful drawer to their projets. I wih this will help you.
 
 
 
