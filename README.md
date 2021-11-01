@@ -5,7 +5,9 @@ The repo is solving a problem with package flurry_navigation as it's old and the
 
 
 
-https://user-images.githubusercontent.com/80456446/138419615-d6261f10-d98e-4267-92ef-29be2ebfe71e.mp4
+
+https://user-images.githubusercontent.com/80456446/139630864-e74933b0-32ba-4cc4-a926-5ee18a88d83e.mp4
+
 
 
 
