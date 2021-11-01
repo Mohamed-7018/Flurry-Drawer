@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'bottom_section/bottom_section.dart';
 import 'drawer_pages/fifth_screen.dart';
 import 'drawer_pages/first_screen.dart';
 import 'drawer_pages/fourth_screen.dart';
@@ -50,6 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // The content of the screen
       contentScreen: activeScreen,
       menuScreen: new MenuScreen(
+        bottomSection: BottomSection(),
         bgColor: Color.fromRGBO(121, 134, 203, 1),
         menu: new Menu(
           items: [
